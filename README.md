@@ -1,2 +1,4 @@
 # codeforireland-recycle
-Alternate versioj of codeforireland Recycke This app
+Alternate version of codeforireland Recycle This app
+
+Vanilla JS PWA frontend.
