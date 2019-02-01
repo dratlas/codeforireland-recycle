@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "RecycleThis!",
+    "scope": "/codeforireland/pwa/index.php",
+    "display": "fullscreen",
+    "start_url": "https://southgeorgiancore.ie/codeforireland/pwa/index.php",
+    "short_name": "RecycleThis!",
+    "theme_color": "blue",
+    "description": "",
+    "orientation": "portrait",
+    "background_color": "white",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/500584da-cb6b-242d-6b5b-f0f654a5674d.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/955fc27e-5b5d-ac65-fdea-dcbae671d467.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/985eb5d8-c5ac-f9c1-29dd-42392305c76b.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/d7802f30-9b25-6089-3c0b-3dd5426b4626.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/6ebd0fdc-290b-c859-1ccd-1a1a3f145cd9.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/539d5026-48bc-6adc-608b-6e053ee8bf97.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/64d1e246-3aa3-c87b-1bf0-755327b15964.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ad2d15f3-edc6-cbbb-d730-4bdd9e0beaee.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/00410da7-2652-fb9a-92dd-2ce0f869956c.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/980d5037-2907-b385-dcb1-5dd839390595.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/b6058bcf-e4ee-58dc-f133-182e60ddc72d.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/8ce575c4-eb7e-7926-213e-4f1eee8b2085.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/8178fe3e-bb43-13fb-0fe4-9244783850d2.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/50e715a7-900b-2ff4-69c8-74e2186a6cf0.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/0bb55c09-ac0c-46fb-45bd-5278559ee0ca.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/2c5f09a8-d488-d47f-2385-bc7d35905b3b.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/2fea70e3-13f3-8a77-d1bd-ed11b5f764e1.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
